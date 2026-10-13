@@ -1,0 +1,55 @@
+body {
+  background-color: lightyellow;
+  font-family: Arial;
+  text-align: center;
+}
+h1 {
+  color: darkblue;
+}
+#box {
+  border: 2px solid orange;
+  padding: 10px;
+  font-size: 16px;
+  width: 250px;
+}
+#btn1 {
+  background-color: limegreen;
+  color: white;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+}
+#btn2 {
+  background-color: dodgerblue;
+  color: white;
+  border: none;
+  padding: 10px;
+  font-size: 16px;
+}
+#num {
+  color: darkred;
+  font-weight: bold;
+}
+li {
+  background-color: white;
+  color: darkblue;
+  border-left: 5px solid orange;
+  margin: 8px auto;
+  padding: 16px;
+  width: 500px;
+  list-style: none;
+  text-align: left;
+  font-size: 19px;
+}
+li button {
+  background-color: tomato;
+  color: white;
+  border: none;
+  float: right;
+  padding: 6px 10px;
+  font-size: 15px;
+}
+.completed {
+  color: green;
+  text-decoration: line-through;
+}
